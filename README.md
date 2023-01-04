@@ -15,8 +15,10 @@
 
 
 ### Glad to see you here!  
-Looking forward to my next journey as a developer and ready to bring
-        value while working on building bigger ideas.  
+Looking forward to my next journey as a developer and ready to bring value while working on building bigger ideas.
+
+I have extensive experience working in logistics from being a Freight Broker to a Fleet Manager.
+Through my years of experience I`ve come to a good understanding on how to create long-term relationships with clients and make sure they last.
         
 Please check out my <a href="https://amazing-caramel-24ae7f.netlify.app/" target="_blank"> Portfolio
 </a> website.
