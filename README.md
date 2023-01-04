@@ -22,7 +22,7 @@ Looking forward to my next journey as a developer and ready to bring
 <br/>  
 
 
-## Rapidfire  
+## Information  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on improving my Front End skillset  
