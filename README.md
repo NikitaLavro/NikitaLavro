@@ -18,9 +18,8 @@
 Looking forward to my next journey as a developer and ready to bring
         value while working on building bigger ideas.  
         
-Please check out my <a> href="https://amazing-caramel-24ae7f.netlify.app/" target="_blank">
-Portfolio
-</a>   
+Please check out my <a href="https://amazing-caramel-24ae7f.netlify.app/" target="_blank"> Portfolio
+</a>
   
 
 <br/>  
