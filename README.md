@@ -32,8 +32,11 @@ Please check out my <a href="https://amazing-caramel-24ae7f.netlify.app/" target
 
 - 🔭 I’m currently working on improving my Front End skillset  
   
-
+  
 - ⚡ I enjoy writing music, playing guitar and working out!  
+
+
+- 🔬 Please check out the list of my skills and projects below.
 
 
 </td><td valign="top" width="50%">
