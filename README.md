@@ -28,7 +28,7 @@ Through my years of experience I`ve come to a good understanding on how to creat
 
 
 ## Information  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 ### Front-End
 - HTML (Semantics)
@@ -46,13 +46,6 @@ Through my years of experience I`ve come to a good understanding on how to creat
 - REST (HTTP (TLS/SSL), JSON, CORS)
 - Priciples (SOLID, DRY, KISS)
 - English (Advanced)
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
