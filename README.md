@@ -32,9 +32,7 @@ Through my years of experience I`ve come to a good understanding on how to creat
 
 - 🔭 I’m currently working on improving my Front End skillset  
   
-  
 - ⚡ I enjoy writing music, playing guitar and working out!  
-
 
 - 🔬 Please check out the list of my skills and projects below.
 
