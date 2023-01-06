@@ -21,7 +21,7 @@ I have extensive experience working in logistics from being a Freight Broker to 
 Through my years of experience I`ve come to a good understanding on how to create long-term relationships with clients and make sure they last.
         
 **💼 Please check out my <a href="https://amazing-caramel-24ae7f.netlify.app/" target="_blank"> Portfolio
-</a> website. 💼**
+</a> website.**
   
 
 <br/>  
