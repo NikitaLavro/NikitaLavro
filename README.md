@@ -30,11 +30,12 @@ Through my years of experience I`ve come to a good understanding on how to creat
 ## Information  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on improving my Front End skillset  
-  
-- ⚡ I enjoy writing music, playing guitar and working out!  
-
-- 🔬 Please check out the list of my skills and projects below.
+- HTML (Semantics)
+- CSS (CSS3, SCSS/SASS, BEM)
+- JavaScript (ES6+)
+- React (Main/Advanced concepts, React-Router, Next.js basics)
+- Redux (Redux Toolkit, Redux Thunk, RTK Query)
+- TypeScript (Basics)
 
 
 </td><td valign="top" width="50%">
