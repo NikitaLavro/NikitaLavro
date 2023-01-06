@@ -30,7 +30,7 @@ Through my years of experience I`ve come to a good understanding on how to creat
 ## Information  
 <table><tr><td valign="top" width="50%">
 
-##Front-End
+### Front-End
 - HTML (Semantics)
 - CSS (CSS3, SCSS/SASS, BEM)
 - JavaScript (ES6+)
@@ -38,7 +38,7 @@ Through my years of experience I`ve come to a good understanding on how to creat
 - Redux (Redux Toolkit, Redux Thunk, RTK Query)
 - TypeScript (Basics)
 
-##General 
+### General 
 - Command Line (Directory and File Traversal/Deleting/Editing)
 - NPM (Basics)
 - Git (Basics)
