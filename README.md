@@ -30,12 +30,22 @@ Through my years of experience I`ve come to a good understanding on how to creat
 ## Information  
 <table><tr><td valign="top" width="50%">
 
+##Front-End
 - HTML (Semantics)
 - CSS (CSS3, SCSS/SASS, BEM)
 - JavaScript (ES6+)
 - React (Main/Advanced concepts, React-Router, Next.js basics)
 - Redux (Redux Toolkit, Redux Thunk, RTK Query)
 - TypeScript (Basics)
+
+##General 
+- Command Line (Directory and File Traversal/Deleting/Editing)
+- NPM (Basics)
+- Git (Basics)
+- Linters (ESLint, Prettier)
+- REST (HTTP (TLS/SSL), JSON, CORS)
+- Priciples (SOLID, DRY, KISS)
+- English (Advanced)
 
 
 </td><td valign="top" width="50%">
