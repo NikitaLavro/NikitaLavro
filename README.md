@@ -37,6 +37,7 @@ Through my years of experience I`ve come to a good understanding on how to creat
 - React (Main/Advanced concepts, React-Router, Next.js basics)
 - Redux (Redux Toolkit, Redux Thunk, RTK Query)
 - TypeScript (Basics)
+- Axios (Basics)
 - Testing (JEST and React testing library basics)
 
 ### General 
