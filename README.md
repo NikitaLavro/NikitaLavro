@@ -33,8 +33,8 @@ Through my years of experience I`ve come to a good understanding on how to creat
 ### Front-End
 - HTML (Semantics)
 - CSS (CSS3, SCSS/SASS, BEM)
-- JavaScript (ES6+)
-- React (Main/Advanced concepts, React-Router, Next.js basics)
+- JavaScript (ES6+, Web APIs)
+- React (Main/Advanced concepts, React-Router, Next.js basics, React Query)
 - Redux (Redux Toolkit, Redux Thunk, RTK Query)
 - TypeScript (Basics)
 - Axios (Basics)
