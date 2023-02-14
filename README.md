@@ -48,6 +48,7 @@ Through my years of experience I`ve come to a good understanding on how to creat
 - REST (HTTP (TLS/SSL), JSON, CORS)
 - Priciples (SOLID, DRY, KISS)
 - English (Advanced)
+- MVC/MVVM
 
 
 </td></tr></table>  
