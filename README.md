@@ -43,7 +43,7 @@ Through my years of experience I`ve come to a good understanding on how to creat
 ### General 
 - Command Line (Directory and File Traversal/Deleting/Editing)
 - NPM (Basics)
-- Git (Basics)
+- Git/GitHub (Basics)
 - Linters (ESLint, Prettier)
 - REST (HTTP (TLS/SSL), JSON, CORS)
 - Priciples (SOLID, DRY, KISS)
