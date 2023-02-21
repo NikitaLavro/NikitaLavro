@@ -45,7 +45,7 @@ Through my years of experience I`ve come to a good understanding on how to creat
 - NPM (Basics)
 - Git/GitHub (Basics)
 - Linters (ESLint, Prettier)
-- REST (HTTP (TLS/SSL), JSON, CORS)
+- REST (HTTP (TLS/SSL), JSON/JSend, CORS)
 - Priciples (SOLID, DRY, KISS)
 - English (Advanced)
 - MVC/MVVM
